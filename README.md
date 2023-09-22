@@ -12,6 +12,5 @@ Currently, two official plugins are available:
 $ npm install
 $ npm install -D tailwindcss postcss autoprefixer
 $ npx tailwindcss init -p
-
-Divyanshu setup done
-ayush done
+$ npm install react-router-dom
+$ npm install react-icons --save
