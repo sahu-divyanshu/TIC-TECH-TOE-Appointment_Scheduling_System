@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 # Installation
 
 $ npm install
+
+
+Divyanshu setup done
