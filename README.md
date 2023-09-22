@@ -11,5 +11,5 @@ Currently, two official plugins are available:
 
 $ npm install
 
-
 Divyanshu setup done
+ayush done
