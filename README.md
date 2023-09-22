@@ -10,14 +10,8 @@ Currently, two official plugins are available:
 # Installation
 
 $ npm install
-$ npm install -D tailwindcss
-$ npx tailwindcss init
+$ npm install -D tailwindcss postcss autoprefixer
+$ npx tailwindcss init -p
 
-<<<<<<< HEAD
-=======
-some time
-$npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
-
->>>>>>> 513f4b3 (initial setup)
 Divyanshu setup done
 ayush done
